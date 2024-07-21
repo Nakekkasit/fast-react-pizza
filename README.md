@@ -15,7 +15,8 @@ PROJECT REQUIREMENTS
 11. Users should be able to mark their order as “priority” order even after it has been placed
 
 Project Technology
-👉 Routing ==> 'React Router'  
-👉 Styling ==> 'Tailwind'
-👉 State Management ==> 'React Router' fetching data right inside React Router (v6.4+) (“render-as-you-fetch” instead of “fetch-on-render”).
-👉 UI State management ==> 'Redux' State is fairly complex Redux is one of good tools to handle it.
+
+1. Routing ==> 'React Router'
+2. Styling ==> 'Tailwind'
+3. State Management ==> 'React Router' fetching data right inside React Router (v6.4+) (“render-as-you-fetch” instead of “fetch-on-render”).
+4. UI State management ==> 'Redux' State is fairly complex Redux is one of good tools to handle it.
