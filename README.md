@@ -1,6 +1,6 @@
-# Web Application for Ordering Pizza
+# Pizza Ordering Web Application with React, Tailwind, Redux
 
-PROJECT REQUIREMENTS
+👉PROJECT REQUIREMENTS
 
 1. Application, where users can order one or more pizzas from a menu
 2. Requires no user accounts and no login: users just input their names before using the app
@@ -13,10 +13,3 @@ PROJECT REQUIREMENTS
 9. Payments are made on delivery, so no payment processing is necessary in the app
 10. Each order will get a unique ID that should be displayed, so the user can later look up their order based on the ID
 11. Users should be able to mark their order as “priority” order even after it has been placed
-
-Project Technology
-
-1. Routing ==> 'React Router'
-2. Styling ==> 'Tailwind'
-3. State Management ==> 'React Router' fetching data right inside React Router (v6.4+) (“render-as-you-fetch” instead of “fetch-on-render”).
-4. UI State management ==> 'Redux' State is fairly complex Redux is one of good tools to handle it.
