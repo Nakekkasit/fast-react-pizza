@@ -1,3 +1,5 @@
+Click here to see live browser 👉 [Fast React Pizza](https://fast-react-pizza-7oay.onrender.com/)
+
 # Pizza Ordering Web Application with React, Tailwind, Redux
 
 👉PROJECT REQUIREMENTS
