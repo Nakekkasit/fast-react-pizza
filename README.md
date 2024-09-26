@@ -1,9 +1,6 @@
-Click here to see live browser 👉 [Fast React Pizza](https://fast-react-pizza-7oay.onrender.com/)
-
-# Pizza Ordering Web Application with React, Tailwind, Redux
-
-👉PROJECT REQUIREMENTS
-
+## Pizza Ordering App with with React JS, Tailwind, Redux
+## Deployed App : 👉 [fast-react-pizza](https://fast-react-pizza-7oay.onrender.com/)
+### 🏛 PROJECT REQUIREMENTS:
 1. Application, where users can order one or more pizzas from a menu
 2. Requires no user accounts and no login: users just input their names before using the app
 3. The pizza menu can change, so it should be loaded from an API
