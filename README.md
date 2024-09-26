@@ -1,4 +1,4 @@
-## Pizza Ordering App with with React JS, Tailwind, Redux
+## Pizza Order App with with React JS, Tailwind, Redux
 ## Deployed App : 👉 [fast-react-pizza](https://fast-react-pizza-7oay.onrender.com/)
 ### 🏛 Project Requirements:
 1. Application, where users can order one or more pizzas from a menu
